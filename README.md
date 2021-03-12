@@ -8,6 +8,6 @@ Um dieses Bashscript benutzen zu können:
 3. Beispiele sind vom 09.03.2021 für die Stadt Worms
 
 
-![alt text](/blob/origin/Beispiel_Corona_RLP.png "Grafik Monatsübersicht Coronawachstum in Worms")
+![alt text](Beispiel_Corona_RLP.png "Grafik Monatsübersicht Coronawachstum in Worms")
 
 Viel Spass damit!
