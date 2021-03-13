@@ -1,6 +1,6 @@
 #!/bin/bash
 #Pfad /home/foo/bin/Pandemie1 muss durch eigenen ersetzt werden.
-cd /home/foo/bin/Pandemie1
+cd /home/foo/bin/Pandemie1 || exit
 rm Listen_Corona_RLP.xlsx*
 sleep 2
 wget https://msagd.rlp.de/fileadmin/msagd/Gesundheit_und_Pflege/GP_Dokumente/Informationen_zum_Coronavirus/Listen_Corona_RLP.xlsx
