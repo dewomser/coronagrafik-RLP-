@@ -1,4 +1,5 @@
 # coronagrafik-RLP-
+[![Trigger: Push action](https://github.com/dewomser/coronagrafik-RLP-/actions/workflows/test.yml/badge.svg)](https://github.com/dewomser/coronagrafik-RLP-/actions/workflows/test.yml)
 Grafische Darstellung des Coronawachstums in Städten und Landkreisen in Rheinland-Pfalz. Es wird die Entwicklung im Monatsvergleich angezeigt.
 
 Quelle ist ein offizielles Excellsheet derLandesregierung( Quelle RKI)
