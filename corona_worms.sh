@@ -1,6 +1,6 @@
-!/bin/bash
+#!/bin/bash
 
-cd /home/karl/bin/Pandemie1
+cd /home/karl/bin/Pandemie1 || exit
 rm Fallzahlen_und_Todesfaelle_Corona_RLP.xlsx
 sleep 2
 #wget https://msagd.rlp.de/fileadmin/msagd/Gesundheit_und_Pflege/GP_Dokumente/Informationen_zum_Coronavirus/Listen_Corona_RLP.xlsx
