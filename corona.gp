@@ -4,12 +4,11 @@
 # Requires data files "Listen_Corona_RLP.csv" from this directory,
 
 
-set title "Corona / Covid 19 Übersicht für Worms. Erstellt: " .strftime("%d.%b %Y %H:%M", time(0)+3600)
-
+set title "Corona / Covid 19 Übersicht für Worms. Erstellt: "  .strftime("%d.%b %Y %H:%M", time(0)+7200)
 set yrange [1:31]
 #set xrange [0:1800]
 set autoscale x
-set xlabel 'Anzahl der Erkrankten absolut'
+set xlabel 'Anzahl der Infizierten absolut'
 set ylabel 'Tage des Monats 1-30(31)'
 
 set label "Okt. 20" at 330,2
