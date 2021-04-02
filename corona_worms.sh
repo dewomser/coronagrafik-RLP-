@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 
 cd /home/karl/bin/Pandemie1
 rm Fallzahlen_und_Todesfaelle_Corona_RLP.xlsx
